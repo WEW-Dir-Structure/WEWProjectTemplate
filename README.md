@@ -1,0 +1,4 @@
+WEWProjectTemplate
+==================
+
+Standard project structure
