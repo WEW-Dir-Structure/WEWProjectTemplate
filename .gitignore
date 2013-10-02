@@ -1,3 +1,11 @@
+# Backup
+*~
+*.swp
+
+# Cache
+autom4te.cache/
+build/.deps/
+
 # Object files
 *.o
 
