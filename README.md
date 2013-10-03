@@ -1,8 +1,8 @@
 Wewmedia Basic project structure
 =========
 To Read: 
-http://en.wikipedia.org/wiki/Unix_filesystem
-http://babbage.cs.qc.edu/courses/cs701/Handouts/man_pages.html
+    http://en.wikipedia.org/wiki/Unix_filesystem
+    http://babbage.cs.qc.edu/courses/cs701/Handouts/man_pages.html
 
 - bin/ is where your script belongs
 - share/dict is where dictionaries and Language related files belongs
